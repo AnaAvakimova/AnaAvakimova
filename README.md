@@ -53,8 +53,8 @@
 
 
 <h3>DutchNewsBot (in progress)</h3>
-<p>Description: A program, that takes news from Dutch website, summirize it using OpenAi api, translate from dutch to russian using Deepl api and send to telegram bot.</p>
-<p>Link: private/in progress </p>
+<p>Description: A program, that takes news from Dutch website, summirize it using OpenAi api, translate from dutch to russian using Deepl api and send a message to telegram bot.</p>
+<p>Link: https://github.com/AnaAvakimova/DutchNewsBot </p>
 <p>Skills Gained:  
 
   
@@ -64,7 +64,8 @@
 * API Integration: Integrated external APIs, including OpenAI's GPT-3 and DeepL translation, to enhance the bot's functionality.
 * Environmental Variables: Implemented secure handling of environmental variables for sensitive API keys, following best practices for security.
 * Scheduling: Utilized the 'schedule' library to schedule tasks at specific times, automating the process of fetching and sending news updates.
-* Text Summarization, Language Translation, String Manipulation, Data Structures<p>
+* Text Summarization, Language Translation, String Manipulation, Data Structures
+* Guthub: Enhanced knowledge in github, such as creating branches, merging branches, started to use formalized approach to writing commits<p>
 
 
 
