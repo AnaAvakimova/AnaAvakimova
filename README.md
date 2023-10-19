@@ -8,6 +8,20 @@
 <p>LinkedIn: <a href=https://www.linkedin.com/in/avakimova/>my account</a></p>
 
 <h2>Projects</h2>
+<h3>Multilingual Online Translator</h3>
+<p>Description: A versatile command-line translation tool implemented in Python, capable of translating words between multiple languages by scraping web content. It provides an option to translate a word into a specific language or all supported languages, storing results in a text file.</p>
+<p>Link: https://github.com/AnaAvakimova/MultilingualOnlineTranslator<p>
+<p>Skills Gained:  
+
+  
+* Web Scraping: Utilized the 'requests' and 'beautifulsoup' libraries to extract translation data from web pages.
+* Text Processing: Employed string manipulation techniques to clean and process the scraped web content.
+* File Handling: Implemented file operations to save translations into text files and read from them, allowing data persistence.
+* Error Handling: Developed custom exception classes for more descriptive and user-friendly error messages for specific cases like unsupported languages or words.
+* Command-line Argument Parsing: Enhanced skills in parsing and processing command-line arguments for versatile script operations.
+* Modular Programming: Organized code into functions for better modularity, readability, and code reuse.
+* Conditional Logic: Used advanced control flow techniques to handle various user inputs and program states effectively.<p>
+
 <h3>Hangman</h3>
 <p>Description: A simple, console-based game implemented in Python. A computer hides a word from you and you need to guess it, letter by letter. If you fail, you'll be hanged, if you win, you'll survive.</p>
 <p>Link: https://github.com/AnaAvakimova/Hangman<p>
