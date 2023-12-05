@@ -8,64 +8,6 @@
 <p>LinkedIn: <a href=https://www.linkedin.com/in/avakimova/>my account</a></p>
 
 <h2>Projects</h2>
-<h3>Multilingual Online Translator</h3>
-<p>Description: A versatile command-line translation tool implemented in Python, capable of translating words between multiple languages by scraping web content. It provides an option to translate a word into a specific language or all supported languages, storing results in a text file.</p>
-<p>Link: https://github.com/AnaAvakimova/MultilingualOnlineTranslator<p>
-<p>Skills Gained:  
-
-  
-* Web Scraping: Utilized the 'requests' and 'beautifulsoup' libraries to extract translation data from web pages.
-* Text Processing: Employed string manipulation techniques to clean and process the scraped web content.
-* File Handling: Implemented file operations to save translations into text files and read from them, allowing data persistence.
-* Error Handling: Developed custom exception classes for more descriptive and user-friendly error messages for specific cases like unsupported languages or words.
-* Command-line Argument Parsing: Enhanced skills in parsing and processing command-line arguments for versatile script operations.
-* Modular Programming: Organized code into functions for better modularity, readability, and code reuse.
-* Conditional Logic: Used advanced control flow techniques to handle various user inputs and program states effectively.<p>
-
-<h3>Hangman</h3>
-<p>Description: A simple, console-based game implemented in Python. A computer hides a word from you and you need to guess it, letter by letter. If you fail, you'll be hanged, if you win, you'll survive.</p>
-<p>Link: https://github.com/AnaAvakimova/Hangman<p>
-<p>Skills Gained:  
-
-  
-* Randomization: utilized the random module to select a word from a predefined list of words
-* Control Flow: effective use of loops and conditional statements to manage the game flow, including checking for win/loss conditions and handling user input.
-* User Input Handling: enhanced skills in handling user input by validating it for correctness and ensuring it meets the game's requirements.
-* Sets: effectively used sets to keep track of guessed letters and ensure that duplicate guesses are handled correctly.
-* Error Handling: implemented error handling to provide clear and informative messages to the user when they input invalid data.
-* Menu System: designed a menu system that allows players to choose between playing the game, viewing results, and exiting the application.
-* Scoring: maintained a scoring system that tracks the number of games won and lost, providing a record of the player's performance.<p>
-
-  
-<h3>Generating Randomness</h3>
-<p>Description: Created a Python program that simulates a game where the computer learns patterns in user-generated sequences of 0s and 1s and attempts to predict the next sequence the user will input. The game also includes a scoring system where the user's balance increases or decreases based on the computer's prediction accuracy.</p>
-<p>Link: https://github.com/AnaAvakimova/GeneratingRandomness</p>
-<p>Skills Gained:  
-
-  
-* User Input Handling: Enhanced skills in handling user input by collecting and processing sequences of 0s and 1s provided by the user.
-* String Manipulation: Demonstrated proficiency in string manipulation techniques to process and analyze user input sequences.
-* Data Structures: Utilized dictionaries to store and manage data related to triads (sequences of 3 bits) and their corresponding prediction statistics.
-* Conditional Statements: Implemented conditional statements to make predictions based on the statistics of observed triads.
-* Looping: Employed loops to iterate through user input sequences and calculate prediction accuracy.
-* Scoring System: Designed a scoring system that keeps track of the user's balance, reflecting their success in predicting user input.
-* Game Logic: Implemented the game logic, including user interaction, balance updates, and the option to exit the game.<p>
-
-  
-<h3>Tic-Tac-Toe</h3>
-<p>Description: A simple, console-based Tic-Tac-Toe game implemented in Python.</p>
-<p>Link: https://github.com/AnaAvakimova/Simple-Tic-Tac-Toe</p>
-<p>Skills Gained:  
-
-  
-* Control Flow: Implemented game logic using conditional statements and loops to manage player turns and check for win conditions.
-* User Input Handling: Enhanced skills in handling user input, including validating input to ensure it represents a valid cell on the game board.
-* List Manipulation: Demonstrated proficiency in manipulating lists to represent and update the game board.
-* Algorithmic Thinking: Developed a win-checking algorithm that efficiently examines the game board to determine the winner.
-* Error Handling: Incorporated error handling to provide informative feedback to users when they make invalid moves.
-* Looping: Implemented a game loop to allow continuous play until a win, draw, or impossible game condition occurs.<p>
-
-
 <h3>DutchNewsBot (in progress)</h3>
 <p>Description: A program, that takes news from Dutch website, summirize it using OpenAi api, translate from dutch to russian using Deepl api and send a message to telegram bot.</p>
 <p>Link: https://github.com/AnaAvakimova/DutchNewsBot </p>
