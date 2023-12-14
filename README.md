@@ -38,9 +38,15 @@
 
 <h2>🎓Learning Path</h2>
 <h3>Courses:</h3>
-<p>Introduction to Python / https://hyperskill.org/ (https://hyperskill.org/certificates/79fb9195-cc51-432c-ae62-3a86b8c150fb.pdf)</p>
-<p>Introduction to Docker / https://hyperskill.org/</p>
-<p>Introduction to Django / https://hyperskill.org/</p>
+<a href="https://hyperskill.org/">
+  <p>Introduction to Python</p>
+</a>
+<a href="https://hyperskill.org/">
+  <p>Introduction to Docker</p>
+</a>
+<a href="https://hyperskill.org/">
+  <p>Introduction to Django</p>
+</a>
 
 <br />
 
