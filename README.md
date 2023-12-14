@@ -1,15 +1,16 @@
-<h1 align="center">Anastasiia Avakimova's Python Learning Journey</h1> 
+<h2>💫Hi, I'm Anastasiia Avakimova</h2> 
 
+<br />
 
-<h2>About Me</h2>
-<p>Name: Anastasiia Avakimova</p>
-<p>Location: Amsterdam, Netherlands</p>
-<p>Email: nastassiavakimova@gmail.com</p>
-<p>LinkedIn: <a href=https://www.linkedin.com/in/avakimova/>my account</a></p>
+<p>🐍Currently on a journey to transition into the world of software development as a Junior Python Developer</p>
+<p>🌷Living in Amsterdam, Netherlands</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avakimova/)
 
-<h2>Projects</h2>
-<h3>DutchNewsBot (in progress)</h3>
-<p>Description: A program, that takes news from Dutch website, summirize it using OpenAi api, translate from dutch to russian using Deepl api and send a message to telegram bot.</p>
+<br />
+
+<h2>🚀Projects</h2>
+<h3>DutchNewsBot</h3>
+<p>Description: A program, that takes news from Dutch website, summirize it and create an image using OpenAi api, translate from dutch to russian using Deepl api and send a message to telegram bot.</p>
 <p>Link: https://github.com/AnaAvakimova/DutchNewsBot </p>
 <p>Skills Gained:  
 
@@ -23,19 +24,26 @@
 * Text Summarization, Language Translation, String Manipulation, Data Structures
 * Guthub: Enhanced knowledge in github, such as creating branches, merging branches, started to use formalized approach to writing commits<p>
 
+<h3>Neighborhood Bot for Telegram</h3>
+<p>Description: This Telegram bot is designed to facilitate interaction within a residential community. It allows users to register their apartment numbers, find their neighbors, and manage their registration information. This bot is ordered and used by real users.</p>
+<p>Link: https://github.com/AnaAvakimova/FindApartmentBot </p>
+<p>Skills Gained:  
+  
+* Telegram Bot Development: Creating commands for registration, find a neighboor, deleting a registration.
+* Working with database (SQLite3).
+* Docker, Docker Compose<p>
 
+<br />
 
-<h2>Learning Path</h2>
+<h2>🎓Learning Path</h2>
 <h3>Courses:</h3>
 <p>Introduction to Python / https://hyperskill.org/ (https://hyperskill.org/certificates/79fb9195-cc51-432c-ae62-3a86b8c150fb.pdf)</p>
-<p>Pandas for Data Analysis / https://hyperskill.org/ (Certificates are not available on beta tracks)</p>
-<p>Introduction to SQL / https://hyperskill.org / https://hyperskill.org/certificates/447f02e1-0d9a-4c79-9e72-80fd7531ed51.pdf)</p>
-<h3>Future Plans</h3>
-<p>I'm currently diving deeper into Python and learning Python Core and Introduction to Django courses (https://hyperskill.org)</p>
+<p>Introduction to Docker / https://hyperskill.org/</p>
+<p>Introduction to Django / https://hyperskill.org/</p>
+
+<br />
+
 <h2>Connect with Me</h2>
 <p>Feel free to connect with me on LinkedIn. I'm always open to networking and learning from others in the Python community.</p>
-<h2>Feedback</h2>
-<p>If you have any feedback or suggestions for my projects or learning journey, please don't hesitate to reach out. I appreciate any insights that can help me improve.
 
-Thank you for visiting my GitHub repository and joining me on my Python learning journey. Together, we can explore the exciting world of Python programming! 🐍🚀</p>
 
