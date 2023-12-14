@@ -4,13 +4,14 @@
 
 <p>🐍Currently on a journey to transition into the world of software development as a Junior Python Developer</p>
 <p>🌷Living in Amsterdam, Netherlands</p>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avakimova/)
-
+<a href="https://www.linkedin.com/in/avakimova/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <br />
 
 <h2>🚀Projects</h2>
 <h3>DutchNewsBot</h3>
-<p>Description: A program, that takes news from Dutch website, summirize it and create an image using OpenAi api, translate from dutch to russian using Deepl api and send a message to telegram bot.</p>
+<p>A program, that takes news from Dutch website, summirize it and create an image using OpenAi api, translate from dutch to russian using Deepl api and send a message to telegram bot.</p>
 <p>Link: https://github.com/AnaAvakimova/DutchNewsBot </p>
 <p>Skills Gained:  
 
@@ -25,7 +26,7 @@
 * Guthub: Enhanced knowledge in github, such as creating branches, merging branches, started to use formalized approach to writing commits<p>
 
 <h3>Neighborhood Bot for Telegram</h3>
-<p>Description: This Telegram bot is designed to facilitate interaction within a residential community. It allows users to register their apartment numbers, find their neighbors, and manage their registration information. This bot is ordered and used by real users.</p>
+<p>This Telegram bot is designed to facilitate interaction within a residential community. It allows users to register their apartment numbers, find their neighbors, and manage their registration information. This bot is ordered and used by real users.</p>
 <p>Link: https://github.com/AnaAvakimova/FindApartmentBot </p>
 <p>Skills Gained:  
   
