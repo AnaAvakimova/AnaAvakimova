@@ -1,7 +1,5 @@
 <h2>💫Hi, I'm Anastasiia Avakimova</h2> 
 
-<br />
-
 <p>🐍Currently on a journey to transition into the world of software development as a Junior Python Developer</p>
 <p>🌷Living in Amsterdam, Netherlands</p>
 <a href="https://www.linkedin.com/in/avakimova/">
@@ -34,7 +32,6 @@
 * Working with database (SQLite3).
 * Docker, Docker Compose<p>
 
-<br />
 
 <h2>🎓Learning Path</h2>
 <h3>Courses:</h3>
@@ -47,8 +44,6 @@
 <a href="https://hyperskill.org/">
   <p>Introduction to Django</p>
 </a>
-
-<br />
 
 <h2>Connect with Me</h2>
 <p>Feel free to connect with me on LinkedIn. I'm always open to networking and learning from others in the Python community.</p>
