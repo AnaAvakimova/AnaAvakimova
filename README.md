@@ -20,6 +20,16 @@
 * Website Development from a scratch both frontend and backend based on Django framework.
 * Website Deployment process using nginx, gunicorn, docker-compose, dns.</p>
 
+
+<h3>Neighborhood Bot for Telegram</h3>
+<p>This Telegram bot is designed to facilitate interaction within a residential community. It allows users to register their apartment numbers, find their neighbors, and manage their registration information. This bot is ordered and used by real users.</p>
+<p>Link: https://github.com/AnaAvakimova/FindApartmentBot </p>
+<p>Skills Gained:  
+  
+* Telegram Bot Development: Creating commands for registration, find a neighboor, deleting a registration.
+* Working with database (SQLite3).
+* Docker, Docker Compose<p>
+
 <h3>DutchNewsBot</h3>
 <p>A program, that takes news from Dutch website, summirize it and create an image using OpenAi api, translate from dutch to russian using Deepl api and send a message to telegram bot.</p>
 <p>Link: https://github.com/AnaAvakimova/DutchNewsBot </p>
@@ -34,16 +44,6 @@
 * Scheduling: Utilized the 'schedule' library to schedule tasks at specific times, automating the process of fetching and sending news updates.
 * Text Summarization, Language Translation, String Manipulation, Data Structures
 * Guthub: Enhanced knowledge in github, such as creating branches, merging branches, started to use formalized approach to writing commits<p>
-
-<h3>Neighborhood Bot for Telegram</h3>
-<p>This Telegram bot is designed to facilitate interaction within a residential community. It allows users to register their apartment numbers, find their neighbors, and manage their registration information. This bot is ordered and used by real users.</p>
-<p>Link: https://github.com/AnaAvakimova/FindApartmentBot </p>
-<p>Skills Gained:  
-  
-* Telegram Bot Development: Creating commands for registration, find a neighboor, deleting a registration.
-* Working with database (SQLite3).
-* Docker, Docker Compose<p>
-
 
 <h2>🎓Learning Path</h2>
 <h3>Courses:</h3>
