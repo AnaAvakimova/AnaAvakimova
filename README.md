@@ -18,7 +18,7 @@
 <p>Skills Gained:  
   
 * Website Development from a scratch both frontend and backend based on Django framework.
-* Website Deployment process using nginx, gunicorn, docker-compose, dns.</p>
+* Website Deployment process using NGINX, Gunicorn, Docker Compose.</p>
 
 
 <h3>Neighborhood Bot for Telegram</h3>
