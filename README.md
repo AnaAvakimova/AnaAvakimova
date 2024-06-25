@@ -1,6 +1,6 @@
 <h2>💫Hi, I'm Anastasiia Avakimova</h2> 
 
-<p>🐍Currently on a journey to transition into the world of software development as a Junior Python Developer</p>
+<p>🐍I'm a Backend Developer (Python/Django)</p>
 <p>🌷Living in Amsterdam, Netherlands</p>
 <a href="https://www.linkedin.com/in/avakimova/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
